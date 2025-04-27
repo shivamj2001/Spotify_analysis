@@ -6,10 +6,10 @@ The full ETL and visualization flow is built using AWS services including S3, Gl
 # 🏗️ Architecture
 
 ## Spotify End-to-End Architecture
-![Spotify DE Architecture](images/Spotify_DE_Architecture.png)
+![Spotify DE Architecture](Spotify_DE_Architecture.png)
 
 ## AWS Glue Visual ETL Flow
-![AWS Glue Visual ETL](images/AWS_Glue_Visual_ETL.png)
+![AWS Glue Visual ETL](AWS_Glue_Visual_ETL.png)
 
 # ⚙️ Workflow
 
